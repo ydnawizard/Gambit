@@ -1,0 +1,8 @@
+Screen {
+    layout: grid;
+    grid-size: 5 20;
+}
+
+.box {
+    height: 100%;
+}
